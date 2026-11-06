@@ -19,6 +19,11 @@ SAP ABAP consultant based in Curitiba, Brazil, working on S/4HANA on-premise
 in an ABAP development factory. I build RAP applications, CDS data models and
 Fiori Elements apps, and handle Brazilian fiscal localization.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F4D3L/F4D3L/main/assets/fiori-stack-dark.svg">
+  <img alt="Tech stack: ABAP, RAP, CDS Views, Fiori Elements, BAdIs, BAPIs, Adobe Forms, ZPL, Brazilian localization, SD/MM/PP/FI, Generative AI, Integration Suite" src="https://raw.githubusercontent.com/F4D3L/F4D3L/main/assets/fiori-stack-light.svg" width="100%">
+</picture>
+
 ### What I work with
 - **RAP** — managed and unmanaged save, behavior definitions, actions, validations
 - **CDS Views** — interface/consumption layers, Fiori Elements annotations
