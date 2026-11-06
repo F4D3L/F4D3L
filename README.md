@@ -4,8 +4,8 @@
 CLASS zcl_guilherme DEFINITION PUBLIC FINAL CREATE PUBLIC.
   PUBLIC SECTION.
     CONSTANTS: role     TYPE string VALUE `SAP ABAP Developer`,
-               focus    TYPE string VALUE `RAP · CDS · Fiori Elements`,
-               learning TYPE string VALUE `SAP Integration Suite (CPI)`.
+               focus    TYPE string VALUE `RAP · CDS · Fiori Elements`.
+               
 ENDCLASS.
 ```
 
@@ -38,4 +38,4 @@ Full-stack development (Node.js, React, MySQL, Redis/BullMQ) and Python —
 which is why some repositories here aren't ABAP.
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · seu-email@exemplo.com
+[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · guicellifadel@gmail.com
