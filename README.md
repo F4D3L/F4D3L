@@ -34,6 +34,7 @@ Fiori Elements apps, and handle Brazilian fiscal localization.
 
 ### Certifications
 - SAP Certified – SAP Generative AI Developer (2026)
+- SAP Certified - SAP Low-code/No-code Developer (2026)
 
 ### Currently
 - Studying SAP Integration Suite / Cloud Integration (CPI)
